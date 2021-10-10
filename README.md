@@ -1,6 +1,6 @@
 # hello_flutter
 
-A new Flutter project.
+A new Flutter project. 심심풀이 프로젝트
 
 ## Getting Started
 
